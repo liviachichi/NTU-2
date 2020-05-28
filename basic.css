@@ -1,0 +1,20 @@
+*{box-sizing: border-box;
+}
+
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0px;
+}
+
+button:focus{
+    outline: none;
+}
+
+/* ========================= 
+            header 
+ ========================= */
+
+.navbar {
+    box-shadow: 0 3px 18px rgba(0, 0, 0, .11);
+}
